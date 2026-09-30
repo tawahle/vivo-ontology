@@ -4628,6 +4628,7 @@ modern society using the world of Star trek. Los Angeles Times, March
         <vitro:exampleAnnot>10.71790/41dcc5e1</vitro:exampleAnnot>
         <obo:IAO_0000115>The Research Activity Identifier (RAiD) is a persistent identifier (PID) and global registry dedicated to research projects.</obo:IAO_0000115>
         <obo:IAO_0000119>https://www.raid.org/</obo:IAO_0000119>
+        <rdfs:domain rdf:resource="http://vivoweb.org/ontology/core#Project"/>
 		<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
         <rdfs:subPropertyOf rdf:resource="http://vivoweb.org/ontology/core#identifier"/>
     </owl:DatatypeProperty>
