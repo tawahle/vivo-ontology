@@ -4450,7 +4450,7 @@ modern society using the world of Star trek. Los Angeles Times, March
         <rdfs:label xml:lang="en">Science and technology resource identification</rdfs:label>
         <obo:IAO_0000111 xml:lang="en">Science and technology resource ID</obo:IAO_0000111>
         <obo:IAO_0000118 xml:lang="en">Science and technology resource ID</obo:IAO_0000118>
-        <obo:IAO_0000112>https://cstr.cn/31253.11.sciencedb.00024</obo:IAO_0000112>
+        <obo:IAO_0000112>31253.11.sciencedb.00024</obo:IAO_0000112>
         <vitro:exampleAnnot>https://cstr.cn/31253.11.sciencedb.00024</vitro:exampleAnnot>
         <obo:IAO_0000115>The Common Science and Technology Resource Identifier(&quot;CSTR&quot;) is the world&#x27;s unique persistent identifier to locating, accessing, and manipulating science and technology resources.</obo:IAO_0000115>
         <obo:IAO_0000119>https://www.cstr.cn/doc/specification/</obo:IAO_0000119>
